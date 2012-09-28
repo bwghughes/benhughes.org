@@ -8,7 +8,7 @@ SITEURL = u'http://benhughes.org'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
-
+THEME='blog-template'
 # Blogroll
 LINKS =  (('Susanne Madsen', 'http://www.susannemadsen.co.uk'),
           ('Bob Marshall', 'http://flowchainsensei.wordpress.com/'),
