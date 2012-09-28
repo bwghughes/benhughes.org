@@ -8,7 +8,7 @@ How many defects are there? How far through are you on the requirements analysis
 
 These are all questions we often get asked during status reports. We're asked to put this information into status packs. So what?
 
-Well here's the problem. Most of these are **lagging** indicators. That is, they'll tell me what's happened. Here's what [Wikipedia][1] has to say about them:
+Well here's the problem. Most of these are **lagging** indicators - a term mostly used in economics. That is, they'll tell me what's happened. Here's what [Wikipedia][1] has to say about them:
 
 > Lagging indicators are indicators that usually change after the economy as a whole does.
 
@@ -20,13 +20,17 @@ Inversely, and less commonly used are **leading** indicators. Here's what [Wikip
 
 Again, without the economic context, these seem on the face of it much more useful.
 
+![Indcators](/images/indicators.png "Lagging & Leading Indicators")
+
 So what does a leading indicator look like?
 ----
+
+
 
 Here's some examples:
 
 * What value have we delivered to the business already?
-* How may things are we working on right now?
+* How many things are we working on right now?
 * How fast are we moving?
 * Are we heading in the right direction?
 
@@ -40,7 +44,7 @@ Since we started, what has the business seen as a retun on its investment based 
 
 Another way to look at this brings us nicely into point 2:
 
-> How may things are we working on right now?
+> How many things are we working on right now?
 
 How much work in progress (WIP) do we have at the moment? If we're working on lots of things at once, we're spending a lot of time [context switching][3], and as a consequence, our flow (rate of delivery) is probably reasonably low.
 
