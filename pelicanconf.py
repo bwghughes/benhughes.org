@@ -23,3 +23,4 @@ SOCIAL = (('twitter', 'http://twitter.com/bwghughes'),)
 
 STATIC_PATHS = ["images", "pictures"]
 DEFAULT_PAGINATION = 5
+CDN_URL = "http://cdn.benhughes.org/"
