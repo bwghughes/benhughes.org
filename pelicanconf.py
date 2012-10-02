@@ -21,6 +21,6 @@ LINKS = (('Susanne Madsen', 'http://www.susannemadsen.co.uk'),
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/bwghughes'),)
 
-STATIC_PATHS = ["images", "pictures"]
+STATIC_PATHS = ["images", "video"]
 DEFAULT_PAGINATION = 5
 CDN_URL = "http://cdn.benhughes.org/"

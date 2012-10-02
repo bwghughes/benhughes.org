@@ -20,7 +20,7 @@ Inversely, and less commonly used are **leading** indicators. Here's what [Wikip
 
 Again, without the economic context, these seem on the face of it much more useful.
 
-![Indcators](http://cdn.benhughes.org/static/images/indicators.png "Lagging & Leading Indicators")
+![Indcators](http://cdn.benhughes.org/images/indicators.png "Lagging & Leading Indicators")
 
 So what does a leading indicator look like?
 ----
